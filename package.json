@@ -47,7 +47,7 @@
     "rimraf": "^2.4.3",
     "sinon": "^1.14.1",
     "source-map-support": "^0.4.6",
-    "standard": "^8.5.0",
+    "standard": "^9.0.0",
     "trace": "^2.3.3"
   },
   "scripts": {
